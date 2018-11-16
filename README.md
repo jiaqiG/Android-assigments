@@ -10,4 +10,4 @@ Android Studio<br><br>
 * looking for and booking trainers and training classes<br>
 * sign-up/sign-in<br>
 4.Screen video<br><br>
-![image](https://github.com/yanpingliu716/Android-assigments/blob/master/screen%20video/assignment1.gif)
+![image](https://github.com/jiaqiG/Android-assigments/blob/master/Screen/screen.gif)
