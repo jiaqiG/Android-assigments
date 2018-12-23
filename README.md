@@ -35,7 +35,7 @@ Android Studio<br><br>
 * Function2:send a email .<br><br>
 
 2.Screen video<br><br>
-![image](https://github.com/jiaqiG/Android-assigments/blob/master/screen%20video/assignment3.gif)<br><br>
+![image](https://github.com/jiaqiG/Android-assigments/blob/master/Screen/assigment3.gif)<br><br>
 
 
 **Assignment 4**, Refactoring yourGymClub App with Offline Caching.<br><br>
